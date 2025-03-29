@@ -19,7 +19,8 @@ section {
     padding-bottom: 5rem;
 }
 
-.nav-img{
+.nav-img {
+    font-weight: 400;
 }
 .nav-link {
     color: #150b75;
