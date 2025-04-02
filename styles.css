@@ -11,7 +11,8 @@ body {
     font-size: 1rem;
     font-family: 'Montserrat';
     background-color: #d9dffa;
-    background:
+    background:linear-gradient(to bottom, transparent 50%, white 50%, white 100%),
+    linear-gradient(to left, white 0%, blue 100%);
     
 
 }
