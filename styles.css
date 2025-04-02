@@ -5,14 +5,15 @@
 
 :root {
     --laranja-claro: #000a41;
-background-image: linear-gradient(to right, blue, red);
 }
 
 body {
     font-size: 1rem;
     font-family: 'Montserrat';
     background-color: #d9dffa;
+background-image: linear-gradient(to right, blue, red);
 }
+
 
 header {
     background-color: #d9dffa;
