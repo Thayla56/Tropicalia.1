@@ -5,8 +5,7 @@
 
 :root {
     --laranja-claro: #000a41;
-linear-gradient(to bottom, transparent 100%, rgb(64, 92, 214) 50%, white 100%);
-}
+
 
 body {
     font-size: 1rem;
@@ -14,6 +13,7 @@ body {
     background-color: #d9dffa;
     background:
     
+}
 }
 
 
