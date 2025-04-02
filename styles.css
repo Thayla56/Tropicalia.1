@@ -12,7 +12,7 @@ body {
     font-size: 1rem;
     font-family: 'Montserrat';
     background-color: #d9dffa;
-background-image: linear-gradient(right, blue, black);
+background-image: linear-gradient(right, rgb(7, 7, 129), black);
 }
 
 
